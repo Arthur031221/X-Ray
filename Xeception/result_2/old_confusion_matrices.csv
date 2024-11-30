@@ -1,0 +1,6 @@
+Label,True Negative,False Positive,False Negative,True Positive
+Nodule,3711,0,289,0
+Infiltration,3172,0,828,0
+Effusion,3118,217,362,303
+Atelectasis,2803,586,335,276
+Total,3201,200.75,453.5,144.75
