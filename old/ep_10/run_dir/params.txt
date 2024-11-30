@@ -1,0 +1,21 @@
+{
+    "model": "densenet",
+    "optimizer": "adam",
+    "lr": 0.0001,
+    "weight_decay": 0.0,
+    "drop_rate": 0.0,
+    "epochs": 10,
+    "batch_size": 16,
+    "workers": 4,
+    "seed": 123456,
+    "tag": "",
+    "toy": false,
+    "save_path": "drive/MyDrive/ML/history_model/run_dir",
+    "scale": 224,
+    "horizontal_flip": false,
+    "verbose": false,
+    "scratch": false,
+    "train_weighted": false,
+    "valid_weighted": false,
+    "size": null
+}
